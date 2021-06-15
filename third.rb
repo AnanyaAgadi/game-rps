@@ -7,7 +7,7 @@ class Game
     user.downcase!
     puts "Your choice : #{user}"
     items = ["rock","paper","scissor"]
-    computer = items[rand(items.length)]
+    computer = items[rand(items.length)] # this answers the random choices between r,p,s 
     puts "computer's choice : #{computer}"
   
 

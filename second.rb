@@ -38,8 +38,6 @@
 #   puts "Please enter a valid choice, either rock paper scissor"
 # end
 
-
-
 # ["string1","string2","string3"].include? myString
 
 # **************************************Second trial
